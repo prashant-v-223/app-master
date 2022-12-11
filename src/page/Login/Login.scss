@@ -1,0 +1,16 @@
+.input_icon {
+  position: absolute;
+  right: 1px;
+  height: 95%;
+  top: 2.5%;
+  background: #fff;
+}
+.input_icon * {
+  margin: 20px;
+}
+@media only screen and (max-width: 567px) {
+  p,
+  label {
+    font-size: 14px;
+  }
+}
